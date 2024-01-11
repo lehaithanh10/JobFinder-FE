@@ -1,0 +1,27 @@
+.nav-control {
+  display: flex;
+  justify-content: space-between !important;
+  height: 10vh !important;
+}
+
+.login-or-user {
+  position: relative;
+  right: 5%;
+}
+lbu
+.login-or-user .white-font {
+  color: white !important;
+}
+
+.login-or-user .white-font:hover {
+  font-weight: 700;
+}
+
+.login-or-user .margin-left-right {
+  margin: 0px 10px;
+}
+
+.login-or-user .user-and-logout {
+  display: flex;
+  justify-content: space-between;
+}

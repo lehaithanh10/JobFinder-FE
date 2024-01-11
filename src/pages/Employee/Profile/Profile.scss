@@ -1,0 +1,39 @@
+// .container-control {
+//   margin-top: 5vh;
+//   display: flex;
+//   // height: auto;
+// }
+.CV-account {
+  width: 45%;
+  margin-right: 5%;
+  background-color: #fff;
+}
+.cv-container {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  align-items: flex-start;
+  width: 100%;
+}
+.account-tab {
+  padding-left: 10px;
+  display: flex !important;
+  align-items: flex-start;
+  flex-direction: column;
+  height: 50vh;
+}
+
+.cv-container .mb-3 {
+  width: 100%;
+}
+.username {
+  width: 80%;
+}
+.recommend-job {
+  width: 45%;
+  background-color: #fff;
+}
+.rcm-job {
+  display: flex;
+  justify-self: center;
+  align-items: center;
+}

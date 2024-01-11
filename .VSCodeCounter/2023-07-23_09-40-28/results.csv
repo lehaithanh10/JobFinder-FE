@@ -1,0 +1,113 @@
+"filename", "language", "TypeScript JSX", "CSS", "SCSS", "TypeScript", "comment", "blank", "total"
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/App.css", "CSS", 0, 32, 0, 0, 1, 6, 39
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/App.tsx", "TypeScript JSX", 61, 0, 0, 0, 0, 3, 64
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/api/application.ts", "TypeScript", 0, 0, 0, 136, 0, 12, 148
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/api/auth.ts", "TypeScript", 0, 0, 0, 98, 0, 8, 106
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/api/employee-education.ts", "TypeScript", 0, 0, 0, 95, 0, 9, 104
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/api/employee-skill.ts", "TypeScript", 0, 0, 0, 87, 0, 9, 96
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/api/employee-woking-experience.ts", "TypeScript", 0, 0, 0, 98, 0, 9, 107
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/api/employee.ts", "TypeScript", 0, 0, 0, 80, 0, 9, 89
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/api/employer.ts", "TypeScript", 0, 0, 0, 124, 0, 12, 136
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/api/job.ts", "TypeScript", 0, 0, 0, 164, 0, 17, 181
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/api/resume.ts", "TypeScript", 0, 0, 0, 94, 0, 8, 102
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/api/uploadFile.ts", "TypeScript", 0, 0, 0, 36, 0, 4, 40
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/api/user.ts", "TypeScript", 0, 0, 0, 13, 0, 3, 16
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/CompanyCardHome/CompanyCardHome.scss", "SCSS", 0, 0, 12, 0, 0, 1, 13
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/CompanyCardHome/CompanyCardHome.tsx", "TypeScript JSX", 41, 0, 0, 0, 0, 4, 45
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/CompanyCardJobDetail/CompanyCardJobDetail.scss", "SCSS", 0, 0, 7, 0, 0, 2, 9
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/CompanyCardJobDetail/CompanyCardJobDetail.tsx", "TypeScript JSX", 43, 0, 0, 0, 0, 6, 49
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/CompanyTitleCard/CompanyTitleCard.tsx", "TypeScript JSX", 79, 0, 0, 0, 0, 6, 85
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/CreateNewCvForm/CreateNewCvForm.scss", "SCSS", 0, 0, 7, 0, 0, 2, 9
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/CreateNewCvForm/CreateNewCvForm.tsx", "TypeScript JSX", 1051, 0, 0, 0, 2, 48, 1101
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/EmployeeProfile/EmployeeEducation/EmployeeEducation.tsx", "TypeScript JSX", 72, 0, 0, 0, 0, 6, 78
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/EmployeeProfile/EmployeeResume/EmployeeResume.tsx", "TypeScript JSX", 38, 0, 0, 0, 0, 4, 42
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/EmployeeProfile/EmployeeSkill/EmployeeSkill.tsx", "TypeScript JSX", 39, 0, 0, 0, 0, 6, 45
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/EmployeeProfile/EmployeeWorkingExperience/EmployeeWorkingExperinence.tsx", "TypeScript JSX", 72, 0, 0, 0, 0, 7, 79
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Footer/Footer.scss", "SCSS", 0, 0, 6, 0, 0, 1, 7
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Footer/Footer.tsx", "TypeScript JSX", 12, 0, 0, 0, 0, 3, 15
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Form/FormEditGeneralInformation.tsx", "TypeScript JSX", 108, 0, 0, 0, 7, 11, 126
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Form/FormEducation.tsx", "TypeScript JSX", 115, 0, 0, 0, 0, 8, 123
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Form/FormSkill.tsx", "TypeScript JSX", 50, 0, 0, 0, 0, 5, 55
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Form/FormUpdateDetailEvent.tsx", "TypeScript JSX", 92, 0, 0, 0, 4, 9, 105
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Form/FormWorkingExperience.tsx", "TypeScript JSX", 126, 0, 0, 0, 0, 9, 135
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/JobCard/JobCard.scss", "SCSS", 0, 0, 29, 0, 0, 0, 29
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/JobCard/JobCard.tsx", "TypeScript JSX", 94, 0, 0, 0, 0, 9, 103
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/JobTitleCard/JobTitleCard.tsx", "TypeScript JSX", 110, 0, 0, 0, 0, 11, 121
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Modal/AdvanceFilterApllicationModal.tsx", "TypeScript JSX", 169, 0, 0, 0, 0, 17, 186
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Modal/ComfirmModal.tsx", "TypeScript JSX", 50, 0, 0, 0, 0, 4, 54
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Modal/Modal.tsx", "TypeScript JSX", 18, 0, 0, 0, 0, 5, 23
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Modal/ModalEditGeneralInformation.tsx", "TypeScript JSX", 39, 0, 0, 0, 0, 3, 42
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Modal/ModalEducation.tsx", "TypeScript JSX", 35, 0, 0, 0, 0, 3, 38
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Modal/ModalSkill.tsx", "TypeScript JSX", 34, 0, 0, 0, 0, 4, 38
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Modal/ModalWorkingExperience.tsx", "TypeScript JSX", 34, 0, 0, 0, 0, 3, 37
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Navbar/Navbar.scss", "SCSS", 0, 0, 23, 0, 0, 5, 28
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Navbar/Navbar.tsx", "TypeScript JSX", 141, 0, 0, 0, 2, 13, 156
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Pagination/Pagination.tsx", "TypeScript JSX", 43, 0, 0, 0, 0, 6, 49
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/component/SearchBar/SearchBar.tsx", "TypeScript JSX", 109, 0, 0, 0, 0, 13, 122
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/enum-types.ts", "TypeScript", 0, 0, 0, 18, 0, 3, 21
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/firebase.ts", "TypeScript", 0, 0, 0, 34, 15, 7, 56
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/helpers/checkHttpResponseStatus.ts", "TypeScript", 0, 0, 0, 9, 0, 2, 11
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/helpers/notify.ts", "TypeScript", 0, 0, 0, 7, 0, 2, 9
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/helpers/renderErrorMessage.tsx", "TypeScript JSX", 13, 0, 0, 0, 0, 1, 14
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/index.css", "CSS", 0, 12, 0, 0, 0, 2, 14
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/index.tsx", "TypeScript JSX", 13, 0, 0, 0, 5, 3, 21
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/layout/MainLayout.tsx", "TypeScript JSX", 21, 0, 0, 0, 4, 6, 31
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Company/CompanyPage.tsx", "TypeScript JSX", 178, 0, 0, 0, 0, 21, 199
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Company/ManageJobPosts.tsx", "TypeScript JSX", 249, 0, 0, 0, 1, 18, 268
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Company/UpdateProfile.tsx", "TypeScript JSX", 210, 0, 0, 0, 125, 28, 363
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Cv-template/CVTemplateProps.tsx", "TypeScript JSX", 23, 0, 0, 0, 0, 2, 25
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Cv-template/Cv-template-1/CvTemplate1.scss", "SCSS", 0, 0, 6, 0, 0, 1, 7
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Cv-template/Cv-template-1/CvTemplate1.tsx", "TypeScript JSX", 264, 0, 0, 0, 0, 5, 269
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Cv-template/Cv-template-2/CvTemplate2.scss", "SCSS", 0, 0, 0, 0, 0, 1, 1
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Cv-template/Cv-template-2/CvTemplate2.tsx", "TypeScript JSX", 134, 0, 0, 0, 1, 9, 144
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Cv-template/Cv-template-3/CvTemplate3.scss", "SCSS", 0, 0, 56, 0, 0, 11, 67
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Cv-template/Cv-template-3/CvTemplate3.tsx", "TypeScript JSX", 67, 0, 0, 0, 1, 8, 76
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Employee/ManageApplication/ManageApplication.tsx", "TypeScript JSX", 180, 0, 0, 0, 2, 11, 193
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Employee/NewProfile/NewProfile.scss", "SCSS", 0, 0, 54, 0, 0, 12, 66
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Employee/NewProfile/NewProfile.tsx", "TypeScript JSX", 797, 0, 0, 0, 7, 61, 865
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Employee/Profile/Profile.scss", "SCSS", 0, 0, 33, 0, 5, 2, 40
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Employee/Profile/Profile.tsx", "TypeScript JSX", 183, 0, 0, 0, 22, 12, 217
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Employee/UploadCv/UploadCvPage.tsx", "TypeScript JSX", 136, 0, 0, 0, 0, 12, 148
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Employee/UploadCv/helper.ts", "TypeScript", 0, 0, 0, 9, 0, 2, 11
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/ForgotPassword/ForgotPassword.scss", "SCSS", 0, 0, 56, 0, 0, 9, 65
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/ForgotPassword/ForgotPassword.tsx", "TypeScript JSX", 74, 0, 0, 0, 1, 6, 81
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Home/Home.scss", "SCSS", 0, 0, 5, 0, 0, 1, 6
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Home/Home.tsx", "TypeScript JSX", 229, 0, 0, 0, 0, 21, 250
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Job/ApplyJobPage.tsx", "TypeScript JSX", 171, 0, 0, 0, 1, 19, 191
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Job/CreateJobPage.tsx", "TypeScript JSX", 261, 0, 0, 0, 1, 29, 291
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Job/JobDetailPage.tsx", "TypeScript JSX", 100, 0, 0, 0, 0, 9, 109
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Job/ListApplicants.tsx", "TypeScript JSX", 347, 0, 0, 0, 2, 22, 371
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Job/UpdateJobPage.tsx", "TypeScript JSX", 352, 0, 0, 0, 1, 33, 386
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Login/LoginForm.scss", "SCSS", 0, 0, 61, 0, 0, 12, 73
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Login/LoginForm.tsx", "TypeScript JSX", 123, 0, 0, 0, 43, 17, 183
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/SignUp/SignUpForm.scss", "SCSS", 0, 0, 52, 0, 0, 2, 54
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/SignUp/SignUpForm.tsx", "TypeScript JSX", 126, 0, 0, 0, 18, 12, 156
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/react-app-env.d.ts", "TypeScript", 0, 0, 0, 3, 1, 1, 5
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/company/CompanyAction.ts", "TypeScript", 0, 0, 0, 17, 0, 4, 21
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/company/CompanyReducer.ts", "TypeScript", 0, 0, 0, 24, 0, 5, 29
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/employee/EmployeeAction.ts", "TypeScript", 0, 0, 0, 17, 0, 4, 21
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/employee/EmployeeReducer.ts", "TypeScript", 0, 0, 0, 24, 0, 5, 29
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/job/JobAction.ts", "TypeScript", 0, 0, 0, 17, 0, 4, 21
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/job/JobReducer.ts", "TypeScript", 0, 0, 0, 24, 0, 5, 29
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/reduxStore.ts", "TypeScript", 0, 0, 0, 26, 0, 5, 31
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/user/UserAction.ts", "TypeScript", 0, 0, 0, 14, 0, 4, 18
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/user/UserReducer.ts", "TypeScript", 0, 0, 0, 27, 0, 5, 32
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/shared/data.ts", "TypeScript", 0, 0, 0, 79, 0, 3, 82
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/shared/notify.ts", "TypeScript", 0, 0, 0, 6, 0, 2, 8
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/types/ApiResponse.ts", "TypeScript", 0, 0, 0, 5, 0, 2, 7
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/types/application.ts", "TypeScript", 0, 0, 0, 22, 0, 2, 24
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/types/auth.ts", "TypeScript", 0, 0, 0, 10, 0, 3, 13
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/types/company.ts", "TypeScript", 0, 0, 0, 13, 0, 1, 14
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/types/employee.ts", "TypeScript", 0, 0, 0, 40, 0, 3, 43
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/types/form.ts", "TypeScript", 0, 0, 0, 41, 0, 2, 43
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/types/job.ts", "TypeScript", 0, 0, 0, 20, 0, 3, 23
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/types/pagination.ts", "TypeScript", 0, 0, 0, 7, 0, 1, 8
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/types/resume.ts", "TypeScript", 0, 0, 0, 14, 0, 3, 17
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/types/user.ts", "TypeScript", 0, 0, 0, 14, 0, 2, 16
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/util/convertHtmlElementToPdfFile.ts", "TypeScript", 0, 0, 0, 20, 0, 3, 23
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/util/convertMMtoPixel.ts", "TypeScript", 0, 0, 0, 3, 0, 1, 4
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/util/convertPixelToMM.ts", "TypeScript", 0, 0, 0, 3, 0, 1, 4
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/util/convertUSD.ts", "TypeScript", 0, 0, 0, 9, 0, 3, 12
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/util/formatDateToMMYYYY.ts", "TypeScript", 0, 0, 0, 6, 0, 1, 7
+"/home/ad/Desktop/code/DATN/JobFinder-FE/src/util/validateImageFile.ts", "TypeScript", 0, 0, 0, 5, 0, 3, 8
+"Total", "-", 7126, 44, 407, 1612, 272, 858, 10319

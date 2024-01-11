@@ -1,0 +1,29 @@
+.top-job-detail .mb-2 {
+    margin-right: 2%;
+    display: flex;
+    width : 100%;
+    flex-direction: row !important;
+}
+.top-job-detail {
+    width: 100%;
+    display: flex;
+    margin-top: 2vh;
+    flex-wrap: wrap;
+}
+.job-middle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.job-bottom {
+    display: flex;
+    justify-content: space-between;
+}
+.tag-list {
+    width: 70%;
+    text-align: start;
+}
+.job-logo {
+    width: 30%;
+    padding: 5% 0 5% 3%
+}

@@ -1,0 +1,8 @@
+.component {
+  border: 1px solid transparent;
+  transition: border-color 0.3s ease;
+}
+
+.component:hover {
+  border-color: #27b64a;
+}

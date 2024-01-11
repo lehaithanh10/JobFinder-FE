@@ -1,0 +1,186 @@
+Date : 2023-07-23 09:40:28
+Directory : /home/ad/Desktop/code/DATN/JobFinder-FE/src
+Total : 111 files,  9189 codes, 272 comments, 858 blanks, all 10319 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| TypeScript JSX |         50 |      7,126 |        250 |        591 |      7,967 |
+| TypeScript     |         44 |      1,612 |         16 |        197 |      1,825 |
+| SCSS           |         15 |        407 |          5 |         62 |        474 |
+| CSS            |          2 |         44 |          1 |          8 |         53 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                           | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                              |        111 |      9,189 |        272 |        858 |     10,319 |
+| . (Files)                                                                                                                      |          7 |        173 |         22 |         25 |        220 |
+| api                                                                                                                            |         11 |      1,025 |          0 |        100 |      1,125 |
+| component                                                                                                                      |         32 |      2,898 |         15 |        234 |      3,147 |
+| component/CompanyCardHome                                                                                                      |          2 |         53 |          0 |          5 |         58 |
+| component/CompanyCardJobDetail                                                                                                 |          2 |         50 |          0 |          8 |         58 |
+| component/CompanyTitleCard                                                                                                     |          1 |         79 |          0 |          6 |         85 |
+| component/CreateNewCvForm                                                                                                      |          2 |      1,058 |          2 |         50 |      1,110 |
+| component/EmployeeProfile                                                                                                      |          4 |        221 |          0 |         23 |        244 |
+| component/EmployeeProfile/EmployeeEducation                                                                                    |          1 |         72 |          0 |          6 |         78 |
+| component/EmployeeProfile/EmployeeResume                                                                                       |          1 |         38 |          0 |          4 |         42 |
+| component/EmployeeProfile/EmployeeSkill                                                                                        |          1 |         39 |          0 |          6 |         45 |
+| component/EmployeeProfile/EmployeeWorkingExperience                                                                            |          1 |         72 |          0 |          7 |         79 |
+| component/Footer                                                                                                               |          2 |         18 |          0 |          4 |         22 |
+| component/Form                                                                                                                 |          5 |        491 |         11 |         42 |        544 |
+| component/JobCard                                                                                                              |          2 |        123 |          0 |          9 |        132 |
+| component/JobTitleCard                                                                                                         |          1 |        110 |          0 |         11 |        121 |
+| component/Modal                                                                                                                |          7 |        379 |          0 |         39 |        418 |
+| component/Navbar                                                                                                               |          2 |        164 |          2 |         18 |        184 |
+| component/Pagination                                                                                                           |          1 |         43 |          0 |          6 |         49 |
+| component/SearchBar                                                                                                            |          1 |        109 |          0 |         13 |        122 |
+| helpers                                                                                                                        |          3 |         29 |          0 |          5 |         34 |
+| layout                                                                                                                         |          1 |         21 |          4 |          6 |         31 |
+| pages                                                                                                                          |         30 |      4,536 |        231 |        408 |      5,175 |
+| pages/Company                                                                                                                  |          3 |        637 |        126 |         67 |        830 |
+| pages/Cv-template                                                                                                              |          7 |        550 |          2 |         37 |        589 |
+| pages/Cv-template (Files)                                                                                                      |          1 |         23 |          0 |          2 |         25 |
+| pages/Cv-template/Cv-template-1                                                                                                |          2 |        270 |          0 |          6 |        276 |
+| pages/Cv-template/Cv-template-2                                                                                                |          2 |        134 |          1 |         10 |        145 |
+| pages/Cv-template/Cv-template-3                                                                                                |          2 |        123 |          1 |         19 |        143 |
+| pages/Employee                                                                                                                 |          7 |      1,392 |         36 |        112 |      1,540 |
+| pages/Employee/ManageApplication                                                                                               |          1 |        180 |          2 |         11 |        193 |
+| pages/Employee/NewProfile                                                                                                      |          2 |        851 |          7 |         73 |        931 |
+| pages/Employee/Profile                                                                                                         |          2 |        216 |         27 |         14 |        257 |
+| pages/Employee/UploadCv                                                                                                        |          2 |        145 |          0 |         14 |        159 |
+| pages/ForgotPassword                                                                                                           |          2 |        130 |          1 |         15 |        146 |
+| pages/Home                                                                                                                     |          2 |        234 |          0 |         22 |        256 |
+| pages/Job                                                                                                                      |          5 |      1,231 |          5 |        112 |      1,348 |
+| pages/Login                                                                                                                    |          2 |        184 |         43 |         29 |        256 |
+| pages/SignUp                                                                                                                   |          2 |        178 |         18 |         14 |        210 |
+| redux                                                                                                                          |          9 |        190 |          0 |         41 |        231 |
+| redux (Files)                                                                                                                  |          1 |         26 |          0 |          5 |         31 |
+| redux/company                                                                                                                  |          2 |         41 |          0 |          9 |         50 |
+| redux/employee                                                                                                                 |          2 |         41 |          0 |          9 |         50 |
+| redux/job                                                                                                                      |          2 |         41 |          0 |          9 |         50 |
+| redux/user                                                                                                                     |          2 |         41 |          0 |          9 |         50 |
+| shared                                                                                                                         |          2 |         85 |          0 |          5 |         90 |
+| types                                                                                                                          |         10 |        186 |          0 |         22 |        208 |
+| util                                                                                                                           |          6 |         46 |          0 |         12 |         58 |
++--------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                                                       | language       | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/App.css                                                                            | CSS            |         32 |          1 |          6 |         39 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/App.tsx                                                                            | TypeScript JSX |         61 |          0 |          3 |         64 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/api/application.ts                                                                 | TypeScript     |        136 |          0 |         12 |        148 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/api/auth.ts                                                                        | TypeScript     |         98 |          0 |          8 |        106 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/api/employee-education.ts                                                          | TypeScript     |         95 |          0 |          9 |        104 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/api/employee-skill.ts                                                              | TypeScript     |         87 |          0 |          9 |         96 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/api/employee-woking-experience.ts                                                  | TypeScript     |         98 |          0 |          9 |        107 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/api/employee.ts                                                                    | TypeScript     |         80 |          0 |          9 |         89 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/api/employer.ts                                                                    | TypeScript     |        124 |          0 |         12 |        136 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/api/job.ts                                                                         | TypeScript     |        164 |          0 |         17 |        181 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/api/resume.ts                                                                      | TypeScript     |         94 |          0 |          8 |        102 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/api/uploadFile.ts                                                                  | TypeScript     |         36 |          0 |          4 |         40 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/api/user.ts                                                                        | TypeScript     |         13 |          0 |          3 |         16 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/CompanyCardHome/CompanyCardHome.scss                                     | SCSS           |         12 |          0 |          1 |         13 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/CompanyCardHome/CompanyCardHome.tsx                                      | TypeScript JSX |         41 |          0 |          4 |         45 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/CompanyCardJobDetail/CompanyCardJobDetail.scss                           | SCSS           |          7 |          0 |          2 |          9 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/CompanyCardJobDetail/CompanyCardJobDetail.tsx                            | TypeScript JSX |         43 |          0 |          6 |         49 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/CompanyTitleCard/CompanyTitleCard.tsx                                    | TypeScript JSX |         79 |          0 |          6 |         85 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/CreateNewCvForm/CreateNewCvForm.scss                                     | SCSS           |          7 |          0 |          2 |          9 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/CreateNewCvForm/CreateNewCvForm.tsx                                      | TypeScript JSX |      1,051 |          2 |         48 |      1,101 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/EmployeeProfile/EmployeeEducation/EmployeeEducation.tsx                  | TypeScript JSX |         72 |          0 |          6 |         78 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/EmployeeProfile/EmployeeResume/EmployeeResume.tsx                        | TypeScript JSX |         38 |          0 |          4 |         42 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/EmployeeProfile/EmployeeSkill/EmployeeSkill.tsx                          | TypeScript JSX |         39 |          0 |          6 |         45 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/EmployeeProfile/EmployeeWorkingExperience/EmployeeWorkingExperinence.tsx | TypeScript JSX |         72 |          0 |          7 |         79 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Footer/Footer.scss                                                       | SCSS           |          6 |          0 |          1 |          7 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Footer/Footer.tsx                                                        | TypeScript JSX |         12 |          0 |          3 |         15 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Form/FormEditGeneralInformation.tsx                                      | TypeScript JSX |        108 |          7 |         11 |        126 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Form/FormEducation.tsx                                                   | TypeScript JSX |        115 |          0 |          8 |        123 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Form/FormSkill.tsx                                                       | TypeScript JSX |         50 |          0 |          5 |         55 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Form/FormUpdateDetailEvent.tsx                                           | TypeScript JSX |         92 |          4 |          9 |        105 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Form/FormWorkingExperience.tsx                                           | TypeScript JSX |        126 |          0 |          9 |        135 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/JobCard/JobCard.scss                                                     | SCSS           |         29 |          0 |          0 |         29 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/JobCard/JobCard.tsx                                                      | TypeScript JSX |         94 |          0 |          9 |        103 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/JobTitleCard/JobTitleCard.tsx                                            | TypeScript JSX |        110 |          0 |         11 |        121 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Modal/AdvanceFilterApllicationModal.tsx                                  | TypeScript JSX |        169 |          0 |         17 |        186 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Modal/ComfirmModal.tsx                                                   | TypeScript JSX |         50 |          0 |          4 |         54 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Modal/Modal.tsx                                                          | TypeScript JSX |         18 |          0 |          5 |         23 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Modal/ModalEditGeneralInformation.tsx                                    | TypeScript JSX |         39 |          0 |          3 |         42 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Modal/ModalEducation.tsx                                                 | TypeScript JSX |         35 |          0 |          3 |         38 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Modal/ModalSkill.tsx                                                     | TypeScript JSX |         34 |          0 |          4 |         38 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Modal/ModalWorkingExperience.tsx                                         | TypeScript JSX |         34 |          0 |          3 |         37 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Navbar/Navbar.scss                                                       | SCSS           |         23 |          0 |          5 |         28 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Navbar/Navbar.tsx                                                        | TypeScript JSX |        141 |          2 |         13 |        156 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/Pagination/Pagination.tsx                                                | TypeScript JSX |         43 |          0 |          6 |         49 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/component/SearchBar/SearchBar.tsx                                                  | TypeScript JSX |        109 |          0 |         13 |        122 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/enum-types.ts                                                                      | TypeScript     |         18 |          0 |          3 |         21 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/firebase.ts                                                                        | TypeScript     |         34 |         15 |          7 |         56 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/helpers/checkHttpResponseStatus.ts                                                 | TypeScript     |          9 |          0 |          2 |         11 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/helpers/notify.ts                                                                  | TypeScript     |          7 |          0 |          2 |          9 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/helpers/renderErrorMessage.tsx                                                     | TypeScript JSX |         13 |          0 |          1 |         14 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/index.css                                                                          | CSS            |         12 |          0 |          2 |         14 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/index.tsx                                                                          | TypeScript JSX |         13 |          5 |          3 |         21 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/layout/MainLayout.tsx                                                              | TypeScript JSX |         21 |          4 |          6 |         31 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Company/CompanyPage.tsx                                                      | TypeScript JSX |        178 |          0 |         21 |        199 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Company/ManageJobPosts.tsx                                                   | TypeScript JSX |        249 |          1 |         18 |        268 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Company/UpdateProfile.tsx                                                    | TypeScript JSX |        210 |        125 |         28 |        363 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Cv-template/CVTemplateProps.tsx                                              | TypeScript JSX |         23 |          0 |          2 |         25 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Cv-template/Cv-template-1/CvTemplate1.scss                                   | SCSS           |          6 |          0 |          1 |          7 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Cv-template/Cv-template-1/CvTemplate1.tsx                                    | TypeScript JSX |        264 |          0 |          5 |        269 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Cv-template/Cv-template-2/CvTemplate2.scss                                   | SCSS           |          0 |          0 |          1 |          1 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Cv-template/Cv-template-2/CvTemplate2.tsx                                    | TypeScript JSX |        134 |          1 |          9 |        144 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Cv-template/Cv-template-3/CvTemplate3.scss                                   | SCSS           |         56 |          0 |         11 |         67 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Cv-template/Cv-template-3/CvTemplate3.tsx                                    | TypeScript JSX |         67 |          1 |          8 |         76 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Employee/ManageApplication/ManageApplication.tsx                             | TypeScript JSX |        180 |          2 |         11 |        193 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Employee/NewProfile/NewProfile.scss                                          | SCSS           |         54 |          0 |         12 |         66 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Employee/NewProfile/NewProfile.tsx                                           | TypeScript JSX |        797 |          7 |         61 |        865 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Employee/Profile/Profile.scss                                                | SCSS           |         33 |          5 |          2 |         40 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Employee/Profile/Profile.tsx                                                 | TypeScript JSX |        183 |         22 |         12 |        217 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Employee/UploadCv/UploadCvPage.tsx                                           | TypeScript JSX |        136 |          0 |         12 |        148 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Employee/UploadCv/helper.ts                                                  | TypeScript     |          9 |          0 |          2 |         11 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/ForgotPassword/ForgotPassword.scss                                           | SCSS           |         56 |          0 |          9 |         65 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/ForgotPassword/ForgotPassword.tsx                                            | TypeScript JSX |         74 |          1 |          6 |         81 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Home/Home.scss                                                               | SCSS           |          5 |          0 |          1 |          6 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Home/Home.tsx                                                                | TypeScript JSX |        229 |          0 |         21 |        250 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Job/ApplyJobPage.tsx                                                         | TypeScript JSX |        171 |          1 |         19 |        191 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Job/CreateJobPage.tsx                                                        | TypeScript JSX |        261 |          1 |         29 |        291 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Job/JobDetailPage.tsx                                                        | TypeScript JSX |        100 |          0 |          9 |        109 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Job/ListApplicants.tsx                                                       | TypeScript JSX |        347 |          2 |         22 |        371 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Job/UpdateJobPage.tsx                                                        | TypeScript JSX |        352 |          1 |         33 |        386 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Login/LoginForm.scss                                                         | SCSS           |         61 |          0 |         12 |         73 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/Login/LoginForm.tsx                                                          | TypeScript JSX |        123 |         43 |         17 |        183 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/SignUp/SignUpForm.scss                                                       | SCSS           |         52 |          0 |          2 |         54 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/pages/SignUp/SignUpForm.tsx                                                        | TypeScript JSX |        126 |         18 |         12 |        156 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/react-app-env.d.ts                                                                 | TypeScript     |          3 |          1 |          1 |          5 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/company/CompanyAction.ts                                                     | TypeScript     |         17 |          0 |          4 |         21 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/company/CompanyReducer.ts                                                    | TypeScript     |         24 |          0 |          5 |         29 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/employee/EmployeeAction.ts                                                   | TypeScript     |         17 |          0 |          4 |         21 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/employee/EmployeeReducer.ts                                                  | TypeScript     |         24 |          0 |          5 |         29 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/job/JobAction.ts                                                             | TypeScript     |         17 |          0 |          4 |         21 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/job/JobReducer.ts                                                            | TypeScript     |         24 |          0 |          5 |         29 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/reduxStore.ts                                                                | TypeScript     |         26 |          0 |          5 |         31 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/user/UserAction.ts                                                           | TypeScript     |         14 |          0 |          4 |         18 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/redux/user/UserReducer.ts                                                          | TypeScript     |         27 |          0 |          5 |         32 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/shared/data.ts                                                                     | TypeScript     |         79 |          0 |          3 |         82 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/shared/notify.ts                                                                   | TypeScript     |          6 |          0 |          2 |          8 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/types/ApiResponse.ts                                                               | TypeScript     |          5 |          0 |          2 |          7 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/types/application.ts                                                               | TypeScript     |         22 |          0 |          2 |         24 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/types/auth.ts                                                                      | TypeScript     |         10 |          0 |          3 |         13 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/types/company.ts                                                                   | TypeScript     |         13 |          0 |          1 |         14 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/types/employee.ts                                                                  | TypeScript     |         40 |          0 |          3 |         43 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/types/form.ts                                                                      | TypeScript     |         41 |          0 |          2 |         43 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/types/job.ts                                                                       | TypeScript     |         20 |          0 |          3 |         23 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/types/pagination.ts                                                                | TypeScript     |          7 |          0 |          1 |          8 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/types/resume.ts                                                                    | TypeScript     |         14 |          0 |          3 |         17 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/types/user.ts                                                                      | TypeScript     |         14 |          0 |          2 |         16 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/util/convertHtmlElementToPdfFile.ts                                                | TypeScript     |         20 |          0 |          3 |         23 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/util/convertMMtoPixel.ts                                                           | TypeScript     |          3 |          0 |          1 |          4 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/util/convertPixelToMM.ts                                                           | TypeScript     |          3 |          0 |          1 |          4 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/util/convertUSD.ts                                                                 | TypeScript     |          9 |          0 |          3 |         12 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/util/formatDateToMMYYYY.ts                                                         | TypeScript     |          6 |          0 |          1 |          7 |
+| /home/ad/Desktop/code/DATN/JobFinder-FE/src/util/validateImageFile.ts                                                          | TypeScript     |          5 |          0 |          3 |          8 |
+| Total                                                                                                                          |                |      9,189 |        272 |        858 |     10,319 |
++--------------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
